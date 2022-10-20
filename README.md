@@ -1,6 +1,6 @@
 ### Hi I am a web application maker
 ***
-I am Rubel, a Front End web application developer in Bangladesh, like the quote "working from home". I love to write clean and scalable code for web and mobile applications, passionate to learning and exploring new technologies.
+I am Rubel, a Front End web application developer, like the quote "working from home". I love to write clean and scalable code for web and mobile applications, passionate to learning and exploring new technologies.
 
 ☕ Connect with me: 
 
