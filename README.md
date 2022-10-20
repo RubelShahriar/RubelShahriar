@@ -12,10 +12,10 @@ My portfolio link: https://rubel-mia.netlify.app/
 
 
 - 👋 Hi, I’m @RubelShahriar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming and long term coding
+- 🌱 I’m currently learning node js and express js
+- 💞️ I’m looking to collaborate on coding problems and project related work
+- 📫 How to reach me: mr.rubelshahriar@gmail.com
 
 <!---
 RubelShahriar/RubelShahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
