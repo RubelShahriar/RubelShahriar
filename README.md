@@ -18,7 +18,7 @@ My portfolio link: https://rubel-mia.netlify.app/
 
 ### Tools and Technologies i use
 ***
-Javascript is my preffered language as i work with web applications
+Javascript is my preffered language as i work for web applications
 | Area | Tools |
 |:-----|-----------|
 |Language| ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-2ea44f?logo=javascript&logoColor=white) ![Code - TypeScript](https://img.shields.io/badge/Code-TypeScript-2ea44f?logo=typescript&logoColor=white) |
