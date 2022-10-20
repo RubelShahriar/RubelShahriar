@@ -17,7 +17,7 @@ My portfolio link: https://rubel-mia.netlify.app/
 - 💞️ I’m looking to collaborate on coding problems and project related work
 - 📫 How to reach me: mr.rubelshahriar@gmail.com
 
-#### Tools and Technologies i use
+### Tools and Technologies i use
 ***
 Javascript is my preffered language as i work with web applications
 | Area | Tools |
