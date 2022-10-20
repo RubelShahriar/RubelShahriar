@@ -4,12 +4,11 @@ I am Rubel, a Front End web application developer, like the quote "working from 
 
 ☕ Connect with me: 
 
-[![mrrubelmia - linkedin](https://img.shields.io/badge/mrrubelmia-linkedin-2ea44f?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrubelmia/)
-[![mdrubelshahriar - instagram](https://img.shields.io/badge/mdrubelshahriar-instagram-2ea44f?logo=instagram&logoColor=white)](https://www.instagram.com/mdrubelshahriar/)
-[![@RubelShr - twitter](https://img.shields.io/badge/%40RubelShr-twitter-2ea44f?logo=twitter&logoColor=white)](https://twitter.com/RubelShr)
+[![mrrubelmia - LinkedIn](https://img.shields.io/badge/mrrubelmia-LinkedIn-2ea44f?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrubelmia/)
+[![mdrubelshahriar - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2ea44f?logo=instagram&logoColor=white)](https://www.instagram.com/mdrubelshahriar/)
+[![@RubelShr - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2ea44f?logo=twitter&logoColor=white)](https://twitter.com/RubelShr)
 
 My portfolio link: https://rubel-mia.netlify.app/
-
 
 - 👋 Hi, I’m @RubelShahriar
 - 👀 I’m interested in programming and long term coding
