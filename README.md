@@ -27,6 +27,7 @@ Javascript is my preffered language as i work for web applications
 |Styling| ![CSS - Materialize UI](https://img.shields.io/badge/CSS-Materialize_UI-2bbc8a?logo=mui&logoColor=white) ![CSS - React-Bootstrap](https://img.shields.io/badge/CSS-React--Bootstrap-2bbc8a?logo=bootstrap&logoColor=white) ![CSS - Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind_CSS-2bbc8a?logo=tailwindcss&logoColor=white) ![CSS - Bootstrap](https://img.shields.io/badge/CSS-Bootstrap-2bbc8a?logo=bootstrap&logoColor=white) ![CSS - Bulma](https://img.shields.io/badge/CSS-Bulma-2bbc8a?logo=bulma&logoColor=white) |
 |Deployment| ![Deploy - Heroku](https://img.shields.io/badge/Deploy-Heroku-2bbc8a?logo=heroku&logoColor=white) ![Deploy - Netlify](https://img.shields.io/badge/Deploy-Netlify-2bbc8a?logo=netlify&logoColor=white) ![Deploy - Wix](https://img.shields.io/badge/Deploy-Wix-2bbc8a?logo=wix&logoColor=white) ![Deploy - Firebase](https://img.shields.io/badge/Deploy-Firebase-2bbc8a?logo=firebase&logoColor=white) |
 
+Also I use Visual Studio Code editor as default, git for distributed version control, and so on.
 
 <!---
 RubelShahriar/RubelShahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
