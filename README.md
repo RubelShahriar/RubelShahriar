@@ -1,4 +1,4 @@
-### Hi I am a web application maker
+### Hi i am a web application maker
 ***
 I am Rubel, a Front End web application developer, like the quote "working from home". I love to write clean and scalable code for web and mobile applications, passionate to learning and exploring new technologies.
 
@@ -13,7 +13,7 @@ My portfolio link: https://rubel-mia.netlify.app/
 - 👋 Hi, I’m @RubelShahriar
 - 👀 I’m interested in programming and long term coding
 - 🌱 I’m currently learning node js and express js
-- 💞️ I’m looking to collaborate on coding problems and project related work
+- 💞️ I feel good to discuss about coding problems with peoples who codes
 - 📫 How to reach me: mr.rubelshahriar@gmail.com
 
 ### Tools and Technologies i use
