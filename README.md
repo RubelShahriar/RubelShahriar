@@ -1,4 +1,4 @@
-### Hi i am a web application maker
+### Hi i am a web application developer
 ***
 I am Rubel, a Front End web application developer, like the quote "working from home". I love to write clean and scalable code for web and mobile applications, passionate to learning and exploring new technologies.
 
