@@ -4,21 +4,21 @@ I am Rubel, a Front End web application developer, like the quote "working from 
 
 ☕ Connect with me: 
 
-[![mrrubelmia - LinkedIn](https://img.shields.io/badge/mrrubelmia-LinkedIn-2bbc8a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelmiaa/)
-[![mdrubelshahriar - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/mdrubelshahriar/)
-[![@RubelShr - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/RubelShr)
+[![@rubelmiaa - LinkedIn](https://img.shields.io/badge/mrrubelmia-LinkedIn-2bbc8a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelmiaa/)
+[![@rubelmiaaa - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/rubelmiaaa/)
+[![@rubelmiaa - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/rubelmiaa)
 
 My portfolio link: https://rubel-mia.vercel.app/
 
-- 👋 Hi, I’m @RubelShahriar
+- 👋 Hi, I’m @RubelMia
 - 👀 I’m interested in programming and long term coding
 - 🌱 I’m currently learning node js and express js
 - 💞️ I feel good to discuss about coding problems with peoples who codes
 - 📫 How to reach me: mr.rubelshahriar@gmail.com
 
-### Tools and Technologies i use
+### Tools and Technologies I use
 ***
-Javascript is my preffered language as i work for web applications
+Javascript is my preffered language as I work for web applications
 | Area | Tools |
 |:-----|-----------|
 |Language| ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-2bbc8a?logo=javascript&logoColor=white) ![Code - TypeScript](https://img.shields.io/badge/Code-TypeScript-2bbc8a?logo=typescript&logoColor=white) |
