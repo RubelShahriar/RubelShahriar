@@ -8,7 +8,7 @@ I am Rubel, a Front End web application developer, like the quote "working from 
 [![@rubelmiaaa - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/rubelmiaaa/)
 [![@rubelmiaa - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/rubelmiaa)
 
-My portfolio link: https://rubel-mia.vercel.app/
+My another portfolio link: https://rubel-mia.vercel.app
 
 - 👋 Hi, I’m @RubelMia
 - 👀 I’m interested in programming and long term coding
