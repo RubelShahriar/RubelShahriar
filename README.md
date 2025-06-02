@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-### MERN Stack Developer Here😊
+### MERN Stack Developer Here 😊
 ***
 Hi, I'm a junior MERN stack developer with a strong foundation in MongoDB, Express.js, React, and Node.js. I specialize in building responsive, full-stack web applications with clean, efficient code and a focus on user experience. I'm passionate about learning new technologies and continuously improving my skills through hands-on projects and collaboration. I'm currently looking for opportunities where I can contribute, grow, and work with like-minded developers.
 
