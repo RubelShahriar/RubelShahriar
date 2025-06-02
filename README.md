@@ -1,5 +1,5 @@
-### Hi 👋
-### MERN Stack Developer Here!
+### Hi Everyone 👋
+### MERN Stack Developer Here😊
 ***
 Hi, I'm a junior MERN stack developer with a strong foundation in MongoDB, Express.js, React, and Node.js. I specialize in building responsive, full-stack web applications with clean, efficient code and a focus on user experience. I'm passionate about learning new technologies and continuously improving my skills through hands-on projects and collaboration. I'm currently looking for opportunities where I can contribute, grow, and work with like-minded developers.
 
@@ -9,7 +9,7 @@ Hi, I'm a junior MERN stack developer with a strong foundation in MongoDB, Expre
 [![@rubelmiaaa - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/rubelmdev/)
 [![@rubelmiaa - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/rubelmdev)
 
-My another portfolio link: rubel-mia.vercel.app
+My another portfolio link: https://rubel-mia.vercel.app
 
 - 👋 Hi, I’m @RubelMia
 - 👀 I’m interested in programming and long term coding
