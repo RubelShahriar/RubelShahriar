@@ -1,22 +1,23 @@
-### Hi i am a web application developer
+### Hi 👋
+### MERN Stack Developer Here!
 ***
-I am Rubel, a Front End web application developer, like the quote "working from home". I love to write clean and scalable code for web and mobile applications, passionate to learning and exploring new technologies.
+Hi, I'm a junior MERN stack developer with a strong foundation in MongoDB, Express.js, React, and Node.js. I specialize in building responsive, full-stack web applications with clean, efficient code and a focus on user experience. I'm passionate about learning new technologies and continuously improving my skills through hands-on projects and collaboration. I'm currently looking for opportunities where I can contribute, grow, and work with like-minded developers.
 
 ☕ Connect with me: 
 
-[![@rubelmiaa - LinkedIn](https://img.shields.io/badge/mrrubelmia-LinkedIn-2bbc8a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelmiaa/)
-[![@rubelmiaaa - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/rubelmiaaa/)
-[![@rubelmiaa - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/rubelmiaa)
+[![@rubelmiaa - LinkedIn](https://img.shields.io/badge/mrrubelmia-LinkedIn-2bbc8a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubeldev/)
+[![@rubelmiaaa - Instagram](https://img.shields.io/badge/mdrubelshahriar-Instagram-2bbc8a?logo=instagram&logoColor=white)](https://www.instagram.com/rubelmdev/)
+[![@rubelmiaa - Twitter](https://img.shields.io/badge/%40RubelShr-Twitter-2bbc8a?logo=twitter&logoColor=white)](https://twitter.com/rubelmdev)
 
-My another portfolio link: https://rubel-mia.vercel.app
+My another portfolio link: rubel-mia.vercel.app
 
 - 👋 Hi, I’m @RubelMia
 - 👀 I’m interested in programming and long term coding
-- 🌱 I’m currently learning node js and express js
+- 🌱 I’m currently working as a MERN Stack Develoer
 - 💞️ I feel good to discuss about coding problems with peoples who codes
-- 📫 How to reach me: mr.rubelshahriar@gmail.com
+- 📫 Contact me via this email: mr.rubelshahriar@gmail.com
 
-### Tools and Technologies I use
+### Technologies and Tools I Use
 ***
 Javascript is my preffered language as I work for web applications
 | Area | Tools |
